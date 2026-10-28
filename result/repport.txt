@@ -1,0 +1,6 @@
+La moyenne : 8.07
+Le maximum : 15.00
+Le minimum : 1.33
+L'écart-type : 4.20
+L'âge moyen : 22.80
+La médiane : 8.00
